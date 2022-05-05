@@ -1,0 +1,67 @@
+h1{
+    color: white;
+    padding-left: 2%;
+    font-size: 3em;
+    font-family: 'Alegreya Sans SC', sans-serif;
+    text-shadow: 7px 0 black, 0 7px black, 7px 0 black, 0 7px black;
+}
+
+h2{
+    color: white;
+    padding-left: 2%;
+    font-family: 'Alegreya Sans SC', sans-serif;   
+    font-size: 2em;
+    text-align: center;
+    text-shadow: 3px 0 black, 0 3px black, 3px 0 black, 0 3px black;
+}
+
+h3{
+    color: black;
+    padding-left: 2%;
+    font-family: 'Alegreya Sans SC', sans-serif;   
+    text-align: center;  
+}
+
+figure{
+    margin-bottom: 10%;
+    display: block;
+    margin-left: -10%;
+    margin-right: auto;
+    position: relative;
+    display: block;
+
+   
+}
+
+figcaption{
+    text-align: center;
+    display: block;
+    color: white;
+    margin-left: 15%;
+    font-size: 2em;
+    margin-right: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.github{
+    margin-left: 1%;
+}
+
+
+.animalForm{
+    margin-left: 7%; 
+}
+
+.vacation{
+    margin-left: -6%; 
+}
+
+.web{
+    margin-left: -2%;   
+}
+
+
+
+
+
+
