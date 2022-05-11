@@ -1,0 +1,48 @@
+h1{
+    color: white;
+    padding-left: 2%;
+    font-size: 3em;
+    font-family: 'Alegreya Sans SC', sans-serif;
+    text-shadow: 7px 0 black, 0 7px black, 7px 0 black, 0 7px black;
+}
+
+p{
+    padding-left: 2%;
+    color: black;
+    font-size: 1.2em;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+h4{
+    color: white;
+    padding-left: 2%; 
+    font-family: 'Alegreya Sans SC', sans-serif;
+    text-shadow: 3px 0 black, 0 3px black, 3px 0 black, 0 3px black;
+    font-size: 1.2em;
+
+}
+
+h2{
+    color: white;
+    padding-left: 2%;   
+    font-family: 'Alegreya Sans SC', sans-serif;
+    text-shadow: 3px 0 black, 0 3px black, 3px 0 black, 0 3px black;
+    font-size: 1.7em;
+}
+
+li{
+    color: black;
+    padding-left: 2%;    
+    font-size: 1em;
+    list-style-type: square;
+    font-family: 'Alegreya Sans SC', sans-serif;
+}
+
+.linkedin{
+    padding-left: 2%;
+}
+
+.linkedinlearning{
+    padding-left: 2%;
+}
